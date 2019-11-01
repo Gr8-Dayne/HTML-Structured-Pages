@@ -51,6 +51,6 @@
   - Think about what motivates people to visit your site
   - Use a site map that is not too complex
 - Wireframe
-[Wireframe](C:\Users\steve_000\Desktop\Wireframeexample.PNG)
+  - Sketch layout so you know what you are attempting to achieve
 - The larger the font, the more noticable it will be
 
