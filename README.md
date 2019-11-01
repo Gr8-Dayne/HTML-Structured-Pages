@@ -46,8 +46,11 @@
   - Form of multimedia
 
 ### Chapter 18
-- 
-- 
-- 
-
+- Know your target audiance
+  - Create fictional target audiance members
+  - Think about what motivates people to visit your site
+  - Use a site map that is not too complex
+- Wireframe
+[Wireframe](C:\Users\steve_000\Desktop\Wireframeexample.PNG)
+- The larger the font, the more noticable it will be
 
